@@ -1,0 +1,8 @@
+EfficientNet_optimize.h5
+93.93%
+
+EfficientNet_optimize1.h5
+93.33%
+
+EfficientNet_optimize0
+93.40%
