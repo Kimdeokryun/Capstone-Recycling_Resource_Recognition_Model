@@ -30,7 +30,6 @@
 
 ## 사용 데이터셋
 - AI HUB 의 생활 폐기물 이미지 데이터셋
-![image]([https://github.com/Kimdeokryun/Capstone-Recycling_Resource_Recognition_Model/assets/96904134/0dd71063-0f45-4361-a9c5-a4cbddee2af1](https://aihub.or.kr/))
 - https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=realm&dataSetSn=140
 - 대분류 데이터셋으로는 총 15개의 클래스로 존재
 
