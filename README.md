@@ -16,8 +16,9 @@
 
 - 언어: Python
 - 모델 프레임워크: TensorFlow
+  ![image](https://github.com/Kimdeokryun/Capstone-Recycling_Resource_Recognition_Model/assets/96904134/0dd71063-0f45-4361-a9c5-a4cbddee2af1)
 - 사용 모델: EfficientNet B0  (224,224)
-![image](https://github.com/Kimdeokryun/Capstone-Recycling_Resource_Recognition_Model/assets/96904134/0dd71063-0f45-4361-a9c5-a4cbddee2af1)
+
 
 동일 파라미터 수 대비 Imagenet 데이터셋의 Top 1 Accuracy가 높은 것을 알 수 있다.
 
