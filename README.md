@@ -34,7 +34,7 @@
 - AI HUB 의 생활 폐기물 이미지 데이터셋
 - https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=realm&dataSetSn=140
 - 대분류 데이터셋으로는 총 15개의 클래스로 존재
-
+- 약 75만장의 이미지, 해당 모델 제작에서는 클래스의 수를 축소시켜 약 30만장의 이미지로 훈련
 
 ### 이미지 전처리
 - 데이터셋 내의 label.xlsx 엑셀파일을 활용하여 train, val 라벨 별로 폴더 및 이미지 파일 존재
