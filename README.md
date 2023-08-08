@@ -17,6 +17,7 @@
 - 언어: Python
 - 모델 프레임워크: TensorFlow
   ![image](https://github.com/Kimdeokryun/Capstone-Recycling_Resource_Recognition_Model/assets/96904134/0dd71063-0f45-4361-a9c5-a4cbddee2af1)
+  
 - 사용 모델: EfficientNet B0  (224,224)
 
 
