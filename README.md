@@ -42,7 +42,7 @@
 
 
 ## 모델 훈련 및 변환
-- EfficientNet_p[timize.py 를 통해 전처리 데이터셋을 EfficientNet B0 아키텍처를 사용한 모델로 훈련
+- EfficientNet_optimize.py 를 통해 전처리 데이터셋을 EfficientNet B0 아키텍처를 사용한 모델로 훈련
 - cpu_info.py 를 통해 cpu 및 gpu 모델로드 사용
 - tensorflow를 사용하기 위해 CUDA 및 GPU 관련 파일 설치 및 환경 변수 설정
 - predict_model.py 를 통해 test 데이터셋 정확도 측정
